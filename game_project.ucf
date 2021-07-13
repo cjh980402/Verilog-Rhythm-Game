@@ -1,0 +1,49 @@
+net rstn loc = p57;
+net clk_1Mhz loc = p79;
+
+net in_9 loc = p52;
+net in_0 loc = p62;
+net in_c loc = p44;
+net in_d loc = p48;
+net in_a loc = p61;
+net in_b loc = p64;
+net in_e loc = p46;
+net in_f loc = p45;
+
+net piezo loc = p51;
+
+net lcd_rs loc = p156;
+net lcd_rw loc = p155;
+net lcd_e loc = p154;
+
+net lcd_data[7] loc = p143;
+net lcd_data[6] loc = p144;
+net lcd_data[5] loc = p146;
+net lcd_data[4] loc = p147;
+net lcd_data[3] loc = p148;
+net lcd_data[2] loc = p149;
+net lcd_data[1] loc = p150;
+net lcd_data[0] loc = p152;
+
+net seg_com[3] loc = p18;
+net seg_com[2] loc = p19;
+net seg_com[1] loc = p20;
+net seg_com[0] loc = p21;
+
+net seg_data[7] loc = p22;
+net seg_data[6] loc = p24;
+net seg_data[5] loc = p26;
+net seg_data[4] loc = p27;
+net seg_data[3] loc = p28;
+net seg_data[2] loc = p29;
+net seg_data[1] loc = p31;
+net seg_data[0] loc = p33;
+
+net single_fnd[7] loc = p176;
+net single_fnd[6] loc = p178;
+net single_fnd[5] loc = p181;
+net single_fnd[4] loc = p182;
+net single_fnd[3] loc = p184;
+net single_fnd[2] loc = p185;
+net single_fnd[1] loc = p187;
+net single_fnd[0] loc = p189;
